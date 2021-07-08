@@ -1,0 +1,135 @@
+Package: com.avalon.batchfinder
+Version: 5.3.2
+Architecture: iphoneos-arm
+Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur
+Filename: ./debs/com.avalon.batchfinder_5.3.2_iphoneos-arm.deb
+Size: 189894
+MD5sum: e5ed9a09e3208ba3da5da39ed171942e
+SHA1: 96473f9e5e084347276e032241c030d78047a4b8
+SHA256: 7fabadc2cf535ab7fc1bbbd34ac45187249fa7bcf0569f022529c01e7c949164
+Section: Tweaks
+Description: An Instacart batch grabbing bot.
+Author: Avalon <batchfinderdev@gmail.com>
+Depiction: https://batchfinder.github.io/depictions/?p=com.avalon.batchfinder
+Name: BatchFinder
+
+Package: com.dgh0st.flexall
+Version: 0.0.1-20
+Architecture: iphoneos-arm
+Maintainer: DGh0st <deeppwnage@yahoo.com>
+Installed-Size: 260
+Depends: mobilesubstrate, libflex
+Filename: ./debs/com.dgh0st.flexall_0.0.1-20_iphoneos-arm.deb
+Size: 20970
+MD5sum: 77402f8267e43472287fe25ab74b9fde
+SHA1: 34801357cd7d0916807dfbbb9bd0ff5ffbca1a9d
+SHA256: 4b587d0821978d9575af10cdbf7c60a481b5d0df27353b004c98eade53b4f99f
+Section: Tweaks
+Description: Load FLEX loader dynamically.
+Author: DGh0st <deeppwnage@yahoo.com>
+Name: FLEXall
+
+Package: com.rpgfarm.a-bypass
+Version: 1.4.4
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 784
+Depends: mobilesubstrate, com.muirey03.libmryipc, applist, com.rpgfarm.libaptoast
+Filename: ./debs/com.rpgfarm.a-bypass.deb
+Size: 85010
+MD5sum: f5b40b59041c6e150b94db25ff0961f2
+SHA1: 4fe3962b95a13144d4610cd32bd0cf1008767ce6
+SHA256: 0cc6d6e2c33d68586b3ed44cc20f29b4dbd3242a18b79d930211a302e75daaeb
+Section: Tweaks
+Description: Super Jailbreak detection bypass!
+Author: Baw Appie <pp121324@gmail.com>
+Name: A-Bypass
+
+Package: com.rpgfarm.libaptoast
+Version: 1.0
+Architecture: iphoneos-arm
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 132
+Filename: ./debs/com.rpgfarm.libaptoast.deb
+Size: 7066
+MD5sum: b6885d2503f2f35cb17eb13ca7aa6bbb
+SHA1: 5ef89490600eeec65c8a5f03b22861c524c40d7b
+SHA256: 9a8973fe080b4b7fcef034e32b34ba60ebd29c51fc71792f1e3ffe52f5ca3391
+Section: System
+Description: Baw Appie's Toast Library
+Tag: role::developer
+Author: Baw Appie <pp121324@gmail.com>
+Name: libAPToast
+
+Package: com.ryleyangus.libertylite.beta
+Version: 0.2.12
+Architecture: iphoneos-arm
+Maintainer: Ryley Angus
+Installed-Size: 616
+Depends: mobilesubstrate, preferenceloader, applist
+Conflicts: com.ryleyangus.liberty, com.ryleyangus.libertylite
+Filename: ./debs/com.ryleyangus.libertylite.beta_0.2.12_iphoneos-arm.deb
+Size: 42210
+MD5sum: 37298170685afadc9b2bf7f636dafba7
+SHA1: f2a120261d0d0ee6ace2deb7508e567cbc76d362
+SHA256: 990c49c7af5807e031d7fa4632e56eb6f5222a1c29002187f88d4de33da684a7
+Section: Tweaks
+Description: A general purpose jailbreak detection bypass patch. Configure the Liberty Lite entry in the Settings app to block (most) apps from detecting your jailbreak. Disabling Substrate/Substitute is not currently supported. Support for both arm64e and armv7 has been enabled in this beta version.
+Author: Ryley Angus
+Icon: file:///Library/PreferenceBundles/LibertyPref.bundle/LibertyPref.png
+Name: Liberty Lite (Beta)
+
+Package: com.udevs.bakgrunnur
+Version: 1.5.9
+Architecture: iphoneos-arm
+Maintainer: udevs
+Installed-Size: 1864
+Depends: mobilesubstrate (>= 0.9.5000), com.rpetrich.rocketbootstrap (>= 1.0.3), com.opa334.ccsupport, firmware(>=13.0), applist
+Filename: ./debs/com.udevs.bakgrunnur_1.5.9_iphoneos-arm.deb
+Size: 287774
+MD5sum: e1cb26cc52bfd0f9acc2468da9ce3116
+SHA1: 7d2f9c4e6e3a434129d45b00e1cc9f1cfa009d2b
+SHA256: 87c7ba0f7f330056f24892094eba2e490079aa26572281042f10ee133025fb7e
+Section: Tweaks
+Description: Truly backgrounding your apps
+Author: udevs
+Depiction: https://udevsharold.github.io/repo/depictions/?p=com.udevs.bakgrunnur
+Icon: https://udevsharold.github.io/repo/depictions/com.udevs.bakgrunnur/icon/icon.png
+Name: Bakgrunnur
+
+Package: libflex
+Version: 4.3.0
+Architecture: iphoneos-arm
+Maintainer: Tanner Bennett <thepantsthief@me.com>
+Installed-Size: 10676
+Pre-Depends: firmware (>= 9.0)
+Filename: ./debs/libflex_4.3.0.deb
+Size: 2748692
+MD5sum: 3a18d0c11f38ec2aff851a5980447d68
+SHA1: d371bcfafba364b17c2c857a9801e231b8845f35
+SHA256: b4a03a6338cf928ca10a7592e1bfd309d646d3e3f1a56dc5460d660e4d0252d0
+Section: Tweaks
+Description: A library for Flipboard Explorer.
+Author: Tanner Bennett <thepantsthief@me.com>
+Name: libFLEX
+
+Package: me.autotouch.AutoTouch.ios8.inputtext
+Version: 7.0.22
+Architecture: iphoneos-arm
+Maintainer: Kent Krantz <kentkrantz@gmail.com>
+Installed-Size: 102444
+Depends: firmware (>= 8.0), mobilesubstrate, com.rpetrich.rocketbootstrap (>> 1.0.6)
+Conflicts: com.repo.xarold.com.autotouch8, repo.biteyourapple.net.autotouch8, repo.biteyourapple.net.autotouch, com.hackyouriphone.autotouch8
+Filename: ./debs/me.autotouch.autotouch.ios8.inputtext.deb
+Size: 25308556
+MD5sum: 2d123b52c260623fe2ccce274f808990
+SHA1: 6f98ec99fc5db436eb0d87b2a7bf0174b3b1384c
+SHA256: 92cfd6c28b1f4e586e66c5c0c3297661d33f2c04f73f6b8b0120779622963e09
+Section: Utilities
+Priority: optional
+Homepage: https://autotouch.net
+Description: Record and playback touch operations, play macro scripts automatically.
+Author: Kent Krantz <kentkrantz@gmail.com>
+Icon: file:///Applications/AutoTouch.app/AppIcon60x60@2x.png
+Name: AutoTouch with inputText
+

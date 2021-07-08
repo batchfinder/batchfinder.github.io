@@ -1,0 +1,15 @@
+<package>
+	<id>com.avalon.batchfinder</id>
+	<name>BatchFinder</name>
+	<version>5.3.2</version>
+	<compatibility></compatibility>
+	<dependencies></dependencies>
+	<descriptionlist>
+		<description>A BatchFinder Bot</description>
+	</descriptionlist>
+	<screenshots></screenshots>
+	<changelog>
+		<change>Changed batch notification sound and made sound file external to allow user modification.</change>
+	</changelog>
+	<links></links>
+</package>
