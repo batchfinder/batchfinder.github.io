@@ -1,12 +1,12 @@
 Package: com.avalon.batchfinder
-Version: 5.3.2
+Version: 5.3.3
 Architecture: iphoneos-arm
 Depends: me.autotouch.autotouch.ios8.inputtext, com.rpetrich.rocketbootstrap,applist, com.ryleyangus.libertylite.beta, preferenceloader, com.dgh0st.flexall, libflex, com.udevs.bakgrunnur
-Filename: ./debs/com.avalon.batchfinder_5.3.2_iphoneos-arm.deb
-Size: 189894
-MD5sum: e5ed9a09e3208ba3da5da39ed171942e
-SHA1: 96473f9e5e084347276e032241c030d78047a4b8
-SHA256: 7fabadc2cf535ab7fc1bbbd34ac45187249fa7bcf0569f022529c01e7c949164
+Filename: ./debs/com.avalon.batchfinder_5.3.3_iphoneos-arm.deb
+Size: 683088
+MD5sum: c78fc4cf04252c784aa3ad9d2fd4dea9
+SHA1: 532ab42c89017b66b82e0aa0620fd70c40a57475
+SHA256: 70266b5a901c029c6493af021c32acfa3b97dc67677ad0e7c583e3b00afeeee3
 Section: Tweaks
 Description: An Instacart batch grabbing bot.
 Author: Avalon <batchfinderdev@gmail.com>
